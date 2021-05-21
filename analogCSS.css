@@ -3,10 +3,8 @@
     position: relative;
     margin: auto;
     height: 40vw;
-    /*to make the height and width responsive*/
     width: 40vw;
     background: url("https://www.pinclipart.com/picdir/middle/195-1954099_clock-with-minutes-template-colorful-clock-without-hands.png") no-repeat;
-    /*setting our background image*/
     background-size: 100%;
 }
   
